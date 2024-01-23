@@ -1,0 +1,198 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    font-family:sans-serif ;
+}
+
+.background
+{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.header
+{
+    background-color:#00152b;
+    padding: 15px 260px 100px 260px;
+    color: white;
+}
+
+.header_logo
+{
+    font-size: 20px;
+}
+
+.link
+{
+    margin-right: 2rem;
+    text-decoration: none;
+    color: white;
+}
+
+.no_margin
+{
+    margin-right: 0;
+}
+
+.header_top
+{
+    display: flex;
+    margin-bottom: 5rem;
+}
+
+.header_block
+{
+    width: 43%;
+}
+
+.header_link
+{
+    display: flex;
+}
+
+.header_content
+{
+    display: flex;
+}
+
+.awesome
+{
+    width: 50%;
+    
+}
+
+.awesome_title
+{
+    margin-right: 50%;
+}
+
+.awesome_content
+{
+    margin-right: 13%;
+}
+
+.header_pic
+{
+    width: 50%;
+    height: 200px;
+    background-color: gray;
+    text-align: center;
+    line-height: 200px;
+}
+
+.signup
+{
+    background-color: dodgerblue;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 3%;
+}
+
+.signup_content
+{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+
+.content_1
+{
+    padding: 15px 260px 100px 260px;
+}
+
+.random
+{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 4%;
+}
+
+.fourimg
+{
+    display: flex;
+    margin-left: 9%;
+}
+
+.oneimg
+{
+    margin-right: 6%;
+}
+
+.img
+{
+    width: 150px;
+    height: 150px;
+    border: solid 4px dodgerblue;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.img_sub
+{
+    text-align: center;
+    width: 150px;
+}
+
+.content_2
+{
+    padding: 125px 375px 125px 375px;
+    background-color: rgb(186, 186, 186);
+}
+
+.content_2_content
+{
+    font-size: 31px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.thor
+{
+    text-align: end;
+    font-weight: bolder;
+}
+
+.content_3
+{
+    padding: 80px 260px 100px 260px;
+}
+
+.content_box
+{
+    background-color: dodgerblue;
+    border-radius: 7px;
+    display: flex;
+    padding: 45px 50px 30px 100px;
+}
+
+.title
+{
+    color:white
+}
+
+.content_3_sub
+{
+    color: white;
+}
+
+.content_block
+{
+    width: 25%;
+}
+
+.content_3 .signup
+{
+    border: solid 2px white;
+    margin-bottom: 2%;
+}
+
+.footer
+{
+    background-color: #00152b;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+}
